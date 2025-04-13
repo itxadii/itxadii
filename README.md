@@ -20,7 +20,7 @@
 - 💻 **Full Stack Developer** — working with both frontend & backend technologies.  
 - 🤖 **AI/ML Curious** — exploring machine learning models and real-world applications.  
 - 🌱 **Lifelong Learner** — always learning, building, and experimenting.  
-- ✍️ **Currently improving**: TypeScript, Next.js, and Python for ML.  
+- ✍️ **Currently improving**: DSA, Development, Building end-to-end SaaS, and Python for ML.  
 - 📫 **Reach me at**: [itzzsecure@gmail.com](mailto:itzzsecure@gmail.com)
 
 ---
