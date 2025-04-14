@@ -27,7 +27,7 @@
 
 ### 🚀 Projects Worth Checking
 
-- [Portfolio Website](https://yourportfolio.com)  
+- [Portfolio Website](https://xadi.vercel.app)  
 
 ---
 
