@@ -1,7 +1,7 @@
 <h1 align="center">Hey Coders! I'm Aditya 👋</h1>
 
 <p align="center">
-  🚀 Passionate Full Stack Developer | 🌍 Open Source Contributor | 🤖 AI/ML Explorer
+  🚀 Developer | 🌍 Open Source Contributor | 🧑‍🎓 AI/ML Student
 </p>
 
 <p align="center">
