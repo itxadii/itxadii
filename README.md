@@ -1,3 +1,5 @@
+<img src="https://www.freepik.com/free-vector/night-ocean-landscape-full-moon-stars-shine_17740155.htm#fromView=keyword&page=1&position=0&uuid=90cbe319-8171-4e0c-8dd0-213ad5ab3cbc&query=Animated+Banner" width="300"/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=1000&color=01F7F1&background=FFFFFF00&center=true&vCenter=true&random=true&width=435&lines=Automation+Expert;AWS+Expert;AI+and+ML+Expert)](https://git.io/typing-svg)
 <h1 align="center">Hey Coders! I'm Aditya 👋</h1>
 
 <p align="center">
