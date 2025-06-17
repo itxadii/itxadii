@@ -1,6 +1,10 @@
-<img src="https://www.freepik.com/free-vector/night-ocean-landscape-full-moon-stars-shine_17740155.htm#fromView=keyword&page=1&position=0&uuid=90cbe319-8171-4e0c-8dd0-213ad5ab3cbc&query=Animated+Banner" width="300"/>
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=1000&color=01F7F1&background=FFFFFF00&center=true&vCenter=true&random=true&width=435&lines=Automation+Expert;AWS+Expert;AI+and+ML+Expert)](https://git.io/typing-svg)
-<h1 align="center">Hey Coders! I'm Aditya 👋</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=83fcf2&text=Hey%20Coders%20%20I'm%20Aditya%20😊👋&section=header&textBg=false&fontColor=fafcfc&fontSize=50&fontAlign=51&animation=twinkling" />
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?weight=500&size=30&duration=2000&color=F74ADF&center=true&vCenter=true&random=true&lines=AI+and+ML+Expert;Automation+Expert;AWS+Expert;Let's+Connect" />
+</p>
+
 
 <p align="center">
   🚀 Developer | 🌍 Open Source Contributor | 🧑‍🎓 AI/ML Student
@@ -15,6 +19,9 @@
 </p>
 
 ---
+<a target="_blank" align="center">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+</a>
 
 ### 🧑‍💻 About Me! 
 
@@ -25,10 +32,6 @@
 - ✍️ **Currently improving**: DSA, Development, Building end-to-end SaaS, and Python for ML.  
 - 📫 **Reach me at**: [itzzsecure@gmail.com](mailto:itzzsecure@gmail.com)
 
----
-
-### 🚀 Projects - 
-[Portfolio Website](https://xadi.vercel.app)  
 
 ---
 
@@ -47,6 +50,9 @@
 
 ### 🌐 Let's Connect!
 
+
+
+<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/xadi" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" />
@@ -61,5 +67,7 @@
 
 ---
 
-> *“Not just writing code — creating solutions that matter.”* 🚀
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=83fcf2&text=“Not%20just%20writing%20code%20—%20creating%20solutions%20that%20matter.”%20🚀&section=footer&textBg=false&fontColor=18230F&fontSize=30&fontAlign=51&animation=twinkling" />
+</p>
 
