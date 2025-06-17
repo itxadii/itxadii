@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=f280ff&text=Hey%20Coders%20%20I'am%20Aditya%20:D-nl--nl-❤️&section=header&textBg=false&fontColor=faebf9&fontSize=50&fontAlign=51&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=c68efd&text=Hey%20Coders%20%20I'am%20Aditya%20:D&section=header&textBg=false&fontColor=faebf9&fontSize=50&fontAlign=51&animation=twinkling" />
 </p>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&duration=2000&pause=1000&color=42E9F5&center=true&vCenter=true&random=true&width=435&lines=AI+and+ML+Expert;Automation+Expert;AWS+Expert;Let's+Connect" />
