@@ -14,7 +14,7 @@
 
 ---
 
-### 🧑‍💻 About Me
+### 🧑‍💻 About Me! 
 
 - 🌐 **Open Source Enthusiast** — love contributing and learning from the community.  
 - 💻 **Full Stack Developer** — working with both frontend & backend technologies.  
