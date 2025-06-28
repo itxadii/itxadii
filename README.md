@@ -38,15 +38,15 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=itxadii&show_icons=true&theme=radical&border_radius=15" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=itxadii&show_icons=true&theme=default_radius=15" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=itxadii&theme=radical&border_radius=15" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=itxadii&border_radius=10" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itxadii&layout=compact&theme=radical&border_radius=15" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itxadii&layout=compact&theme=default_radius=15" alt="Top Languages" />
 </p>
 
 ---
