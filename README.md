@@ -42,8 +42,9 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.vercel.app?user=itxadii&border_radius=15" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=itxadii&border_radius=15" alt="GitHub Streak" />
 </p>
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itxadii&layout=compact&theme=default_radius=15" alt="Top Languages" />
