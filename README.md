@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=a7ff99&text=Hey%20Coders%20%20I'am%20Aditya%20:D&section=header&textBg=false&fontColor=faebf9&fontSize=50&fontAlign=51&animation=twinkling" />
+  <img src="https://raw.githubusercontent.com/itxadii/itxadii/main/github-header-image.png" alt="Aditya Banner" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&duration=2000&pause=1000&color=42E9F5&center=true&vCenter=true&random=true&width=435&lines=GenAI+Expert;Automation+Expert;AWS+Expert;Let's+Connect" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&duration=2000&pause=1000&color=ff0095&center=true&vCenter=true&random=true&width=435&lines=GenAI+Expert;Automation+Expert;AWS+Expert;Let's+Connect" />
 </p>
 
 <p align="center">
