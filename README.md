@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&duration=2000&pause=1000&color=ff0095&center=true&vCenter=true&random=true&width=435&lines=GenAI+Expert;Automation+Expert;AWS+Expert;Let's+Connect" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&duration=2000&pause=1000&color=ff94d8&center=true&vCenter=true&random=true&width=435&lines=GenAI+Expert;Automation+Expert;AWS+Expert;Let's+Connect" />
 </p>
 
 <p align="center">
