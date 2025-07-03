@@ -65,7 +65,7 @@
   <a href="mailto:itzzsecure@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail" />
   </a>
-  <a href="https://x.com/X_Adii_" target="_blank">
+  <a href="https://x.com/xadixone" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-black?style=flat&logo=twitter" />
   </a>
 </p>
