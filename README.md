@@ -42,7 +42,7 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=itxadii&theme=default" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=itxadii&theme=default" alt="GitHub Streak" />
 </p>
 
 
