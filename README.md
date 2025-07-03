@@ -42,7 +42,7 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=itxadii&border_radius=15" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=itxadii&theme=default" alt="GitHub Streak" />
 </p>
 
 
