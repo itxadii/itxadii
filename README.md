@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  🚀 Developer | 🌍 Open Source Contributor | 🧑‍🎓 AI/ML Student
+  🚀 Developer | 🌍 Open Source Contributor | Cloud AWS,Azure ☁️
 </p>
 
 <p align="center">
@@ -26,10 +26,19 @@
 
 ### 🧑‍💻 About Me! 
 
-- 🌐 **Open Source Enthusiast** — love contributing and learning from the community.   
-- 🌱 **Lifelong Learner** — always learning, building, and experimenting.  
-- ✍️ **Currently improving**: DSA, Development, Building end-to-end SaaS, and Python for ML.  
-- 📫 **Reach me at**: [itzzsecure@gmail.com](mailto:itzzsecure@gmail.com)
+- 🚀 Currently exploring Cloud, Automation, and Data Engineering (AWS | Airflow | PySpark).
+
+- 🛠️ Skilled in Java, Python, JavaScript, and familiar with full-stack development (React) and system design basics.
+
+- 🤖 Built projects like AI agents, custom chatbots, and participated in hackathons to learn and grow.
+
+- ☁️ AWS Certified and Oracle Certified actively working on AWS track.
+
+- 📈 Career Goal: To become a Cloud/Data Engineer with strong foundations in automation, real-time systems, and AI integrations.
+
+- 🌱 Learning in public: documenting projects, sharing insights, and open to collaborations.
+
+💡 Fun fact: I love connecting automation + AI + cloud to make life simpler and more efficient.
 
 ---
 
