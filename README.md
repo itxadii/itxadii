@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&duration=2000&pause=1000&color=42f554&center=true&vCenter=true&random=true&width=435&lines=Cloud+(AWS,+Azure);Java+(Spring+Boot,+DSA);Aspiring+Data+Engineer;Let's+Connect" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&duration=2000&pause=1000&color=42f554&center=true&vCenter=true&random=true&width=435&lines=Cloud+(AWS,+Azure);Aspiring+Data+Engineer;Let's+Connect" />
 </p>
 
 <p align="center">
@@ -69,10 +69,10 @@
   <a href="https://www.linkedin.com/in/xadi" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" />
   </a>
-  <a href="mailto:itzzsecure@gmail.com" target="_blank">
+  <a href="mailto:adityawaghmarex@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail" />
   </a>
-  <a href="https://x.com/xadixone" target="_blank">
+  <a href="https://x.com/ifeelhonney" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-black?style=flat&logo=twitter" />
   </a>
 </p>
