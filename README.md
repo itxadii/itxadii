@@ -41,7 +41,7 @@ My approach is straightforward:
 | 🔊 **SurroundYou (8D Converter - Serverless Pipeline)** | AWS Fargate, Docker, EventBridge, S3, Amplify | Automated audio-processing pipeline deployed fully on AWS. | [SurroundYou](https://main.d3pqqc4w1tm533.amplifyapp.com/)
 | 🤖 **CoreX (Automation Agent - Serverless)** | AWS Lambda, Cognito, Amplify, Bedrock Agents, API Gateway | AI Agent Pipeline fully deployed on AWS | [CoreX](https://dev.d3h4csxsp92hux.amplifyapp.com/)
 
-🔗 See all projects here → https://github.com/itxadii)
+🔗 See all projects here → [Click here](https://github.com/itxadii)
 
 ---
 
