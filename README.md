@@ -36,13 +36,12 @@ My approach is straightforward:
 
 ## 🚀 Featured Projects
 
-| Project | Stack | Summary |
-|---------|--------|---------|
-| 🔊 **SurroundYou (Serverless Pipeline)** | AWS Fargate, Docker, EventBridge, S3 | Automated audio-processing pipeline deployed fully on AWS. |
-| 🤖 **CoreX (Automation Agent Serverless)** | Python, OS Automation | Voice-based system automation (open apps, play YouTube, search web). |
-| ⚙️ **Infra Automation Scripts** | Python (Boto3) | Automates IAM / S3 / EC2 provisioning through scripts. |
+| Project | Stack | Summary | Try Using? (Deployment) |
+|---------|--------|---------| ----------|
+| 🔊 **SurroundYou (8D Converter - Serverless Pipeline)** | AWS Fargate, Docker, EventBridge, S3, Amplify | Automated audio-processing pipeline deployed fully on AWS. | [SurroundYou](https://main.d3pqqc4w1tm533.amplifyapp.com/)
+| 🤖 **CoreX (Automation Agent - Serverless)** | AWS Lambda, Cognito, Amplify, Bedrock Agents, API Gateway | AI Agent Pipeline fully deployed on AWS | [CoreX](https://dev.d3h4csxsp92hux.amplifyapp.com/)
 
-🔗 See all projects here → **https://github.com/itxadii**
+🔗 See all projects here → https://github.com/itxadii)
 
 ---
 
