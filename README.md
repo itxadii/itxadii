@@ -39,7 +39,7 @@ My approach is straightforward:
 | Project | Stack | Summary |
 |---------|--------|---------|
 | 🔊 **SurroundYou (Serverless Pipeline)** | AWS Fargate, Docker, EventBridge, S3 | Automated audio-processing pipeline deployed fully on AWS. |
-| 🤖 **Infinity AI (Automation Agent)** | Python, OS Automation | Voice-based system automation (open apps, play YouTube, search web). |
+| 🤖 **CoreX (Automation Agent Serverless)** | Python, OS Automation | Voice-based system automation (open apps, play YouTube, search web). |
 | ⚙️ **Infra Automation Scripts** | Python (Boto3) | Automates IAM / S3 / EC2 provisioning through scripts. |
 
 🔗 See all projects here → **https://github.com/itxadii**
