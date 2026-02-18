@@ -10,7 +10,7 @@
 
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,azure,docker,terraform,linux,git,github,kubernetes,python,react,typescript,tailwind,bash,prometheus,grafana" />
+  <img src="https://skillicons.dev/icons?i=aws,azure,docker,terraform,linux,git,github,kubernetes,python,react,typescript,tailwind,bash" />
 </p>
 
 ---
