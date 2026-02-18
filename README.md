@@ -7,14 +7,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2000&pause=800&color=31F53B&center=true&vCenter=true&width=600&lines=Cloud+%2F+DevOps+Engineer;AWS+%7C+Docker+%7C+Terraform+%7C+CI%2FCD;Building+Scalable+Infrastructure"/>
 </p>
 
----
 
-## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,docker,terraform,linux,git,github,python" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=bash,nodejs" />
+  <img src="https://skillicons.dev/icons?i=aws,azure,docker,terraform,linux,git,github,kubernetes,python,react,typescript,tailwind,bash,prometheus,grafana" />
 </p>
 
 ---
